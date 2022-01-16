@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ByteShortIntLong/ByteShortIntLong.iml" filepath="$PROJECT_DIR$/ByteShortIntLong/ByteShortIntLong.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CharAndBoolean/CharAndBoolean.iml" filepath="$PROJECT_DIR$/CharAndBoolean/CharAndBoolean.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FloatDouble/FloatDouble.iml" filepath="$PROJECT_DIR$/FloatDouble/FloatDouble.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MethodChallenge/MethodChallenge.iml" filepath="$PROJECT_DIR$/MethodChallenge/MethodChallenge.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MethodOverloadingAgain/MethodOverloadingAgain.iml" filepath="$PROJECT_DIR$/MethodOverloadingAgain/MethodOverloadingAgain.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OperatorChallenge/OperatorChallenge.iml" filepath="$PROJECT_DIR$/OperatorChallenge/OperatorChallenge.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PoundToKilogram/PoundToKilogram.iml" filepath="$PROJECT_DIR$/PoundToKilogram/PoundToKilogram.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PrimitiveChallenge/PrimitiveChallenge.iml" filepath="$PROJECT_DIR$/PrimitiveChallenge/PrimitiveChallenge.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Using-java-for-PREP-2021.iml" filepath="$PROJECT_DIR$/.idea/Using-java-for-PREP-2021.iml" />
+      <module fileurl="file://$PROJECT_DIR$/arrayBasics/arrayBasics.iml" filepath="$PROJECT_DIR$/arrayBasics/arrayBasics.iml" />
+      <module fileurl="file://$PROJECT_DIR$/methodOverloading/methodOverloading.iml" filepath="$PROJECT_DIR$/methodOverloading/methodOverloading.iml" />
+      <module fileurl="file://$PROJECT_DIR$/switchChallenge/switchChallenge.iml" filepath="$PROJECT_DIR$/switchChallenge/switchChallenge.iml" />
+      <module fileurl="file://$PROJECT_DIR$/switchStatement/switchStatement.iml" filepath="$PROJECT_DIR$/switchStatement/switchStatement.iml" />
+    </modules>
+  </component>
+</project>
